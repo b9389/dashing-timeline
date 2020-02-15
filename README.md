@@ -14,7 +14,7 @@ Copy all the above files (except preview.png) and paste into corresponding locat
 
 Also we use moment.js for date formating, so be sure to include it in your layout.erb;
 ```html
-<script type="text/javascript" src="/assets/moment.min.js"></script>
+<script type="text/javascript" src="/assets/javascripts/moment.min.js"></script>
 ```
 
 # Configure
